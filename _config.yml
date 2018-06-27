@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: 铁血男孩
+email: support@hycun.cn
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Doing what you like is freedom, liking what you do is happiness. 
+  自由是做你自己喜欢的事，而幸福却是喜欢你自己做的事。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://blog.hycun.cn" # the base hostname & protocol for your site
+twitter_username: lyf1986
+github_username:  lyf1986
 
 # Build settings
 markdown: kramdown
