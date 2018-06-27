@@ -2,11 +2,11 @@
 title: 铁血男孩
 email: support@hycun.cn
 description: > # this means to ignore newlines until "baseurl:"
-  Doing what you like is freedom, liking what you do is happiness. 
+  Doing what you like is freedom, liking what you do is happiness.
   自由是做你自己喜欢的事，而幸福却是喜欢你自己做的事。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.hycun.cn" # the base hostname & protocol for your site
-twitter_username: lyf1986
+# twitter_username: lyf1986
 github_username:  lyf1986
 
 # Build settings
