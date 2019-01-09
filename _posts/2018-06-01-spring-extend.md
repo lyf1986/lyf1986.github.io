@@ -7,7 +7,8 @@ excerpt: 通过扩展点解决spring和dubbo版本不兼容下的属性不解析
 ---
 # 通过扩展点解决spring和dubbo版本不兼容下的属性不解析问题
 
-[TOC]
+* content
+{:toc}
 
 #### 问题描述
 spring+dubbo项目加入配置中心
