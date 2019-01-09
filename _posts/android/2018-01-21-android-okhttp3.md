@@ -2,7 +2,7 @@
 layout: post
 title:  "OkHttp3用法全解析"
 date:   2018-01-21 22:14:54
-categories: springboot
+categories: java
 excerpt: OkHttp3用法全解析
 ---
 
